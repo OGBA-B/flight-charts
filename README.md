@@ -1,4 +1,5 @@
-# Ngchart
+# flight-charts
+An Angular App which displays charts based on flight data# Ngchart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
